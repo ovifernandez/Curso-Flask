@@ -10,4 +10,4 @@ DEBUG = True
 # --- EL RESTO DE TUS CONFIGURACIONES ---
 SQLALCHEMY_TRACK_MODIFICATIONS = False
 
-SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://ovifernandez:PU@adjYjk@t^*jQe0cYU@ovifernandez.mysql.pythonanywhere-services.com/ovifernandez$tienda'
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://ovifernandez:Dake2204@ovifernandez.mysql.pythonanywhere-services.com/ovifernandez$tienda'
