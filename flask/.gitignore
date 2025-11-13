@@ -1,0 +1,19 @@
+Entorno virtual de Python
+
+flask/
+venv/
+*.pyc
+
+Archivos de cache de Python
+
+pycache/
+
+Base de datos local de SQLite
+
+dbase.db
+*.sqlite3
+
+Archivos de configuración de IDE
+
+.vscode/
+.idea/
