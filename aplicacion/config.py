@@ -12,4 +12,4 @@ SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://ovifernandez:[TU_PASSWORD_DE_MYSQL]@o
 # --- EL RESTO DE TUS CONFIGURACIONES ---
 SQLALCHEMY_TRACK_MODIFICATIONS = False
 
-SQLALCHEMY_DATABASE_URI = os.environ.get('DB_URI')
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://ovifernandez:TU_PASSWORD_DE_MYSQL@ovifernandez.mysql.pythonanywhere-services.com/ovifernandez$tienda'
